@@ -1,0 +1,14 @@
+.log{
+  border: 0.6rem solid #ff8f00;
+  border-radius: 5px;
+  width: 100%;
+}
+h2 {
+  padding-top: 90px;
+}
+.imgp{
+  width: 100%;
+}
+#enviar{
+	padding-bottom: 5px;
+}

@@ -1,0 +1,85 @@
+body{
+  background: rgb(113, 21, 6);
+}
+a {
+	color: black;
+}
+.cabecera {
+margin: 10px 100px 10px 100px;
+}
+#navegador {
+padding: 10px 0px 10px 0px;
+text-align: center;
+}
+#encabezado img{      
+width: 20%;
+box-sizing: border-box;
+text-align: center;
+  }
+#redes {     
+text-align: right;
+padding-top: 15px;
+  }
+#redes img{     
+width: 3%;
+text-align: left;
+  }
+#contenedorg{
+border: 3px solid red;
+margin: 0px 85px 0px 85px;
+}
+#contenedora, #contenedore, #comentarios {
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+#contenedore img{ 
+width: 100%;
+  }
+#imagen {
+padding-top: 5px;
+text-align: center;
+}
+#busqueda{
+text-align: center; 
+padding: 5px 0px 5px 0px;
+}
+#busqueda input {
+width: 100%;
+border-radius: 5px;
+text-align: center;
+background-color: rgb(189, 194, 197);
+}
+#botonlupa input{
+width: 350%;
+text-align: center;
+}
+#avatar {     
+text-align: center;
+  }
+#avatar img{
+margin-top: 5px;
+margin-bottom: 5px;
+border-radius: 5px;
+}
+#comentarios img{ 
+width: 100%;
+  }
+#comentarios input {
+width: 100%;
+border-radius: 5px;
+padding: 12px;
+margin-top: 5px;
+margin-bottom: 5px;
+text-align: left;
+background-color: rgb(189, 194, 197);
+}
+
+@media (max-width: 768px) {
+  #redes {     
+text-align: center;
+padding-top: 5px;
+  }
+#encabezado {      
+text-align: center;
+  }
+}

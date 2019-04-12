@@ -1,0 +1,26 @@
+.cabecera {
+  background-color: rgba(1,236,86,0.3);
+  margin: 10px 100px 0px 100px;   
+  padding: 0px 0px 20px 0px;
+  text-align: left;
+  border-bottom: rgba(202,255,227,0.7) 2px solid;
+}
+.cuerpo {
+  background-color: rgba(1,236,86,0.3);
+  margin: 0px 100px 0px 100px;   
+  text-align: left;
+  padding-top: 10px; 
+}
+#cab {
+  border-left: rgba(202,255,227,0.7) 2px dashed;
+}
+#gustos {
+   padding-bottom: 5px;
+}
+#gustos a {
+  width: 100%;
+  text-align: center;
+}
+#imacom {
+  text-align: center;
+}
